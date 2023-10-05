@@ -28,6 +28,8 @@ This is an to do app made using the technology like react tailwind and reduxtool
  - RTK
  - Tailwind css
 
+ ![Screenshot](./Screenshot%20(170).png)
+
 
 # Hi, I'm Roshan Guragain! 👋
 
